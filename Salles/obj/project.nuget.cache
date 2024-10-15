@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "hYVjMlbfHDgsVvzXS4KirJdPaFEmPHoAl+PZWjmEoi7V0E+E+ykqSTFjTJ9MYxTcgRBQpe5b4jS688l6oK6AmQ==",
+  "success": true,
+  "projectFilePath": "/Users/yangraim/Projects/Salles/Salles/Salles.csproj",
+  "expectedPackageFiles": [
+    "/Users/yangraim/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/yangraim/.nuget/packages/microsoft.netcore.app.host.osx-x64/6.0.31/microsoft.netcore.app.host.osx-x64.6.0.31.nupkg.sha512",
+    "/Users/yangraim/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}
